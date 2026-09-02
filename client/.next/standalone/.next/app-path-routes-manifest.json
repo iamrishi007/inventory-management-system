@@ -1,0 +1,21 @@
+{
+  "/(dashboard)/dashboard/page": "/dashboard",
+  "/(dashboard)/inventory/[id]/edit/page": "/inventory/[id]/edit",
+  "/(dashboard)/inventory/add/page": "/inventory/add",
+  "/(dashboard)/inventory/page": "/inventory",
+  "/(dashboard)/page": "/",
+  "/(dashboard)/products/[id]/edit/page": "/products/[id]/edit",
+  "/(dashboard)/products/[id]/page": "/products/[id]",
+  "/(dashboard)/products/add/page": "/products/add",
+  "/(dashboard)/products/page": "/products",
+  "/(dashboard)/stats/page": "/stats",
+  "/(dashboard)/users/[id]/edit/page": "/users/[id]/edit",
+  "/(dashboard)/users/add/page": "/users/add",
+  "/(dashboard)/users/page": "/users",
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/favicon.ico/route": "/favicon.ico",
+  "/login/page": "/login",
+  "/page": "/",
+  "/register/page": "/register"
+}

@@ -1,0 +1,21 @@
+{
+  "/(dashboard)/dashboard/page": "app/(dashboard)/dashboard/page.js",
+  "/(dashboard)/inventory/[id]/edit/page": "app/(dashboard)/inventory/[id]/edit/page.js",
+  "/(dashboard)/inventory/add/page": "app/(dashboard)/inventory/add/page.js",
+  "/(dashboard)/inventory/page": "app/(dashboard)/inventory/page.js",
+  "/(dashboard)/page": "app/(dashboard)/page.js",
+  "/(dashboard)/products/[id]/edit/page": "app/(dashboard)/products/[id]/edit/page.js",
+  "/(dashboard)/products/[id]/page": "app/(dashboard)/products/[id]/page.js",
+  "/(dashboard)/products/add/page": "app/(dashboard)/products/add/page.js",
+  "/(dashboard)/products/page": "app/(dashboard)/products/page.js",
+  "/(dashboard)/stats/page": "app/(dashboard)/stats/page.js",
+  "/(dashboard)/users/[id]/edit/page": "app/(dashboard)/users/[id]/edit/page.js",
+  "/(dashboard)/users/add/page": "app/(dashboard)/users/add/page.js",
+  "/(dashboard)/users/page": "app/(dashboard)/users/page.js",
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/register/page": "app/register/page.js"
+}
