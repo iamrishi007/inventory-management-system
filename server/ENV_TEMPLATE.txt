@@ -1,0 +1,20 @@
+# Server Configuration
+PORT=3000
+
+# Database Configuration
+DB_HOST=localhost
+DB_PORT=5432
+DB_USERNAME=postgres
+DB_PASSWORD=your_password
+DB_DATABASE=smart_inventory
+DB_SYNCHRONIZE=false
+DB_LOGGING=false
+
+# JWT Configuration
+JWT_SECRET=your-super-secret-jwt-key-change-this-in-production
+JWT_EXPIRES_IN=24h
+
+# CORS Configuration
+CORS_ORIGIN=http://localhost:3000
+
+
